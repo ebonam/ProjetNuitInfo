@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.row .panel
+{
+	max-width: 650px;
+}
+
+.btn-group-justified
+{
+	padding-top: 10px;
+	max-width: 150px;
+	margin: auto;
+}
